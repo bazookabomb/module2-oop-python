@@ -36,4 +36,4 @@ harry_potter_2.verbleibende_seiten(145)
 
 harry_potter_3.info()
 harry_potter_3.lesezeit_schaetzen()
-harry_potter_2.verbleibende_seiten(245)
+harry_potter_3.verbleibende_seiten(245)
