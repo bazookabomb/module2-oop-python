@@ -28,9 +28,12 @@ harry_potter_3 = Buch("Harry Potter und der Gefangene von Askaban", "J.K. Rowlin
 
 harry_potter_1.info()
 harry_potter_1.lesezeit_schaetzen()
+harry_potter_1.verbleibende_seiten(45)
 
 harry_potter_2.info()
 harry_potter_2.lesezeit_schaetzen()
+harry_potter_2.verbleibende_seiten(145)
 
 harry_potter_3.info()
 harry_potter_3.lesezeit_schaetzen()
+harry_potter_2.verbleibende_seiten(245)
